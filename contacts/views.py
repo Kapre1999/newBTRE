@@ -28,8 +28,8 @@ def contact(requset):
         send_mail(
             'Property Listing Enqurie',
             'There Has Been a Inquery at Btre For Your Listig' + listing + 'Sing in to admin panel to check',
-            'kapre19091999@gmail.com',
-            ['undataker22@gmail.com'],
+            'From',
+            ['to'],
             fail_silently=False
         )
 
