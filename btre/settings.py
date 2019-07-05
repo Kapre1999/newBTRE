@@ -147,6 +147,6 @@ MESSAGE_TAGS = {
 #email config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'kapre19091999@gmail.com'
-EMAIL_HOST_PASSWORD = 'Kapre100%'
+EMAIL_HOST_USER = 'Your Email'
+EMAIL_HOST_PASSWORD = 'Password'
 EMAIL_USE_TLS = True
